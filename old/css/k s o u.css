@@ -1,0 +1,89 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.welcome{
+font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color: #404040;
+	text-align:left;
+	padding-left:10px;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.welcome1{
+font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color: #404040;
+	text-align:left;
+	padding-left:10px;
+	font-size:22px;
+	font-weight: bold;
+}
+
+.heading{
+font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color: #404040;
+	text-align:left;
+	padding-left:10px;
+	font-size:22px;
+	font-weight: normal;
+}
+
+
+.course_heading{
+font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color: #404040;
+	font-size:16px;
+	font-weight:bold;
+}
+
+
+.contant{
+font-family: Arial, Helvetica, sans-serif;
+	color:#686868;
+	font-size:12px;
+	padding-left:10px;
+	text-align:justify;
+	line-height:15px;
+}
+
+.client{
+font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	color:#686868;
+	font-size:12px;
+	line-height:16px;
+	padding-left:10px;
+}
+
+.link { font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+padding-left:10px;
+color:#818181;
+text-decoration: none;
+padding-left:10px;
+
+}
+.link a{
+text-decoration:underline; color:#818181;}
+
+
+.link a:hover{
+color:#000000;
+text-decoration:none;
+}
+
+
+.more a{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#1f5c9f;
+text-decoration: underline; 
+}
+.more a:hover{
+color:#1c9e54;
+text-decoration:none;
+}
